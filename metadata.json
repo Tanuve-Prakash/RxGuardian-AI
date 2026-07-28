@@ -1,0 +1,8 @@
+{
+  "name": "Remix RxGuardian AI",
+  "description": "AI-powered prescription extraction, verification, safety analysis, and clinical risk scoring system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
